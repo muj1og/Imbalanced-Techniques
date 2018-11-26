@@ -8,9 +8,10 @@ In real life imbalanced datasets can be found in many senario for example- fraud
 1. Problem statement and hypothesis Generation
 2. Data Exploration
 3. Data Cleaning
->  Missing value imputaion 
-3. Data Mainpulation & Feature Enineering
-4. Machine learning 
+4. Missing value imputaion 
+>
+5. Data Mainpulation & Feature Enineering
+6. Machine learning 
 > Imbalanced Techniques
 >>1. Oversampling Techniques
 >>2. Undersampling Tecniques
